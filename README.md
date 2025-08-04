@@ -85,6 +85,8 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [MaterialFX](https://github.com/palexdev/MaterialFX) - A new well documented and actively developed library which brings material design components to JavaFX and much more.
 - [Maven jpackage Template](https://github.com/wiverson/maven-jpackage-template) - GitHub template. Use Maven, jlink and jpackage to produce JavaFX macOS, Windows and Linux installers via GitHub Actions.
 - [Medusa](https://github.com/HanSolo/Medusa) - A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple ways.
+- [MVCI Framework](https://www.pragmaticcoding.ca/javafx/mvci) - a JavaFX Framework designed to make Reactive JavaFX applications much more straight-forward.
+- [mvciFX](https://github.com/barmat80/mvciFX) - a Java implementation of the MVCI framework by Dave Barrett, aka PragmaticCoding.
 - [MigPane](http://miglayout.com) - MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
 - [NetBeansIDE-AfterburnerFX-Plugin](https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin) - The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
@@ -104,6 +106,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [SmartCSVFX](https://github.com/frosch95/SmartCSV.fx) - A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.
 - [StagePro](https://github.com/techsenger/stagepro) - A library for creating custom JavaFX stages with fine-grained control over appearance and layout.
 - [Stream-Pi](https://github.com/stream-pi) - A modular, free, Open Source, Cross-platform macro pad software.
+- [SuggesterFX](https://github.com/barmat80/SuggesterFX) -  a JavaFX lightweight library that provides a suggestion (autocompletion) system for text fields linked to data entries. This library integrates with mvciFX library to provide a clean, maintainable architecture for handling suggestions and autocompletion.
 - [SynchronizeFX](https://github.com/lestard/SynchronizeFX) - Remote Data-Binding between different JVMs, both on a local machine and over the network.
 - [SyntheticaFX](http://www.jyloo.com/syntheticafx/) - SyntheticaFX provides themes and components mainly made for professional business applications on the desktop. The library is growing, new controls are under construction and will be added in future releases. The target platform of the final release is Java 9 or above.
 - [TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX.
