@@ -86,6 +86,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [Maven jpackage Template](https://github.com/wiverson/maven-jpackage-template) - GitHub template. Use Maven, jlink and jpackage to produce JavaFX macOS, Windows and Linux installers via GitHub Actions.
 - [Medusa](https://github.com/HanSolo/Medusa) - A JavaFX library for Gauges. The main focus of this project is to provide Gauges that can be configured in multiple ways.
 - [MigPane](http://miglayout.com) - MigLayout can produce flowing, grid based, absolute (with links), grouped and docking layouts.
+- [MonetFX](https://github.com/Glavo/MonetFX) - A library that implements the Material 3 color system in JavaFX. The project also provides a sample program as an alternative to Material Theme Builder.
 - [NetBeansIDE-AfterburnerFX-Plugin](https://github.com/Naoghuman/NetBeansIDE-AfterburnerFX-Plugin) - The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the file generation in convention with the library afterburner.fx in a JavaFX project.
 - [Orson Charts](https://github.com/jfree/orson-charts) - An interactive 3D chart library for JavaFX and Swing.
 - [PI-Rail-FX](https://gitlab.com/pi-rail/pi-rail-fx) - A UI for a model railway control system.
