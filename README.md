@@ -144,6 +144,7 @@ on Vavr and Spring Boot which manages most of the annoying boilerplate that come
 - [ReactiveDeskFX](https://github.com/TangoraBox/ReactiveDeskFX) - JavaFX micro-framework to develop JavaFX components very fast with minimal code following MVVM architecture pattern with passive view.
 - [ReduxFX](https://github.com/netopyr/reduxfx) - Functional Reactive Programming (FRP) for JavaFX inspired by the JavaScript library Redux.js.
 - [ScalaFX](http://www.scalafx.org/) - simplifies creation of JavaFX-based user interfaces in Scala.
+- [TabShell](https://github.com/techsenger/tabshell) - TabShell is a platform for building tab-based applications in JavaFX, where an application is structured as a tree of MVP components. The platform provides classes for creating components, as well as ready-to-use dialogs, layouts, and devtools.
 - [TornadoFX](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin.
 - [WorkbenchFX](https://github.com/dlemmermann/WorkbenchFX) - A lightweight RCP framework for JavaFX applications.
 
