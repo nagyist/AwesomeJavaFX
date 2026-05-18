@@ -78,6 +78,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [JMetro](https://www.pixelduke.com/jmetro) - Modern theme (or look and feel) for JavaFX inspired by Microsoft Metro / Fluent Design System. It is used for instance in NASA's app: [Deep Space Trajectory Explorer](https://www.youtube.com/watch?v=MotQ1PC1xT8).
 - [jpro](https://www.jpro.one/) - JavaFX for the Browser. jpro is a new technology which brings Java back into the browser - without Java Plugin.
 - [JSilhouette](https://github.com/aalmiray/jsilhouette) - JSilhouette provides additional shapes for Java applications.
+- [JxBrowser](https://teamdev.com/jxbrowser) - JxBrowser is a commercial embedded browser component based on Chromium. Renders content exactly like Chromium, supports latest web standards. Work with DOM, JS, Network, Printing, Downloads, etc.
 - [Kubed](https://github.com/hudsonb/kubed) - A port of the popular Javascript library D3.js to Kotlin/JavaFX.
 - [Lib-Tile](https://github.com/Naoghuman/lib-tile) - Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8.0.2 and provides the functionalities to use and handle easily Tiles in your JavaFX application.
 - [Language Manager](https://github.com/snoopy137/language-manager) - JavaFX library for dynamic runtime language switching using .properties files with automatic and programmatic bindings.
