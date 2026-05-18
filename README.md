@@ -40,6 +40,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 - [FlexBoxFX](https://github.com/malikoski/FlexBoxFX) - FlexBoxFX is a JavaFX implementation of CSS3 flexbox layout manager.
 - [FlexGanttFX](http://dlsc.com/products/flexganttfx/) - FlexGanttFX is the most advanced JavaFX-based Gantt charting framework currently available for Java.
 - [Flowless](https://github.com/TomasMikula/Flowless) - Efficient VirtualFlow for JavaFX.
+- [FluentFxCss](https://github.com/brunomnsilva/FluentFxCSS) - A fluent, type-safe CSS builder for JavaFX.
 - [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx) - FontAwesome in JavaFX with FontAwesomeFX.
 - [FormsFX](https://github.com/dlemmermann/FormsFX) - A framework for easily creating forms for a JavaFX UI.
 - [FroXty](https://github.com/iAmGio/froxty) - iOS frosty/translucent effect to JavaFX.
